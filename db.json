@@ -1,0 +1,27 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Learn Angular",
+        "done": false,
+        "date": "2024-12-01",
+        "description": "Study the basics of Angular and its architecture."
+      },
+      {
+        "id": 2,
+        "title": "Create a Todo App",
+        "done": false,
+        "date": "2024-12-05",
+        "description": "Build a functional Todo App with Angular."
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "login": "user@example.com",
+        "password": "password123",
+        "token": "abcd1234"
+      }
+    ]
+  }
+  
